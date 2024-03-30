@@ -1,5 +1,6 @@
-![2024-03-30 (1)](https://github.com/faFacundoAguilar/Climate/assets/124779712/db188d0c-54f7-4753-8d05-1bb4b3ff4e0a)
-## Tecnologías - Programming lenguages.
+![2024-03-30 (4)](https://github.com/faFacundoAguilar/Climate/assets/124779712/4c0599ce-63a5-46eb-8dde-a8ab81f12ff4)
+## Tecnologías - Programming 
+lenguages.
  - JavaScript
  - Html
  - Css
