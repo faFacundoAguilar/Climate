@@ -1,12 +1,5 @@
-# WeatherApplication
-A simple weather application using the openweather API.
-
-Instructions for executing the code:
-
-*1Visit the website https://openweathermap.org
-*2Register for a free account
-*3Access the API keys section
-*5Generate a unique key
-*6Copy the generated key to your clipboard
-*7Paste the key into the designated variable in the script.js file
-Look for the weather wherever it is !
+![2024-03-30 (1)](https://github.com/faFacundoAguilar/Climate/assets/124779712/db188d0c-54f7-4753-8d05-1bb4b3ff4e0a)
+## Tecnologías - Programming lenguages.
+ - JavaScript
+ - Html
+ - Css
