@@ -4,3 +4,4 @@ lenguages.
  - JavaScript
  - Html
  - Css
+ - Canva
