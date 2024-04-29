@@ -13,7 +13,7 @@ This weather app gets current information and forecasts, schedules for cities ar
 - **Stylish UI**: Features a modern design with a dark background, vibrant button colors, and readable fonts.
 - **User Interaction**: Users can interact with the application by entering a city name and clicking the search button.
 - **Error Handling**: Incorporates error handling to alert users if there are issues with fetching weather data.
-## Tecnologías 
+## TECHNOLOGIES
  - JavaScript
  - Html
  - Css
